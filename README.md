@@ -9,7 +9,4 @@ mmustafa512/mmustafa512 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 [![trophy](https://github-profile-trophy.vercel.app/m-mustafa512ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers
-https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat
+

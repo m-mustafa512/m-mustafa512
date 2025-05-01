@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h3 align="left">📊Github Stats:</h3>
-![](https://nirzak-streak-stats.vercel.app/?user=m-mustafa512&theme=default&hide_border=false)
+![Streaks](https://github-streak-stats.vercel.app/?user=m-mustafa512&theme=default&hide_border=false)
 
 <br><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=m-mustafa512&theme=flat)](https://github.com/m-mustafa512/)

@@ -22,18 +22,13 @@ You can click the Preview link to take a look at your changes.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/2b1c990e-12d4-405a-842b-88d9aa9c784b" alt="jquery" width="40" height="40"/> </a>  </p><br><br>
 
-
-<h3 align="left">📊Github Stats:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-mustafa512&" alt="m-mustafa512" /></p>
-
-<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=m-mustafa512&theme=flat)](https://github.com/m-mustafa512/)
 
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-mustafa512&layout=compact)
 
-<br>
+<br><br>
 
 <!---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-mustafa512&show_icons=true&locale=en" alt="m-mustafa512" /></p>

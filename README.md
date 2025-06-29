@@ -2,7 +2,7 @@
 <br><br>
 
 <h1 align="center">       
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=286FF7&width=435&height=55&lines=Hi+There!+%F0%9F%91%8B;I'm+Muhammad+Mustafa." alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=286FF7&width=435&height=55&lines=Hi+There!+%F0%9F%91%8B+;I'm+Muhammad+Mustafa" alt="Typing SVG" /></a>
 </h1> 
 <h3 align="center">A web developer| Student of Software Engineering</h3>
 
@@ -32,7 +32,8 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
  </p> <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-mustafa512&show_icons=true&locale=en&layout=compact" alt="m-mustafa512" /></p> <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-mustafa512&show_icons=true&locale=en&layout=compact" alt="m-mustafa512" /></p> 
+<br>
 <br>
 
 

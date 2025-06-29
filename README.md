@@ -4,11 +4,11 @@
 <h1 align="center">       
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=286FF7&width=435&height=55&lines=Hi+There!+%F0%9F%91%8B+;I'm+Muhammad+Mustafa" alt="Typing SVG" /></a>
 </h1> 
-<h3 align="center">A web developer| Student of Software Engineering</h3>
+<h3 align="center">A Web Developer | Student of Software Engineering</h3>
 
 
-- 👋 Hi, I’m Mustafa
-- 👀 I’m interested in programming
+- 👋 Hi, I’m Mustafa.
+- 👀 I’m interested in programming.
 - 🌱 I’m currently learning Express js. I have intermediate experience in C++, HTML, CSS, Javascript, Bootstrap and JQuery.
 - 💞️ I’m looking to collaborate on learning from experts and sharing my work with you to review and learn from it.
 - 📫 How to reach me: Mail me at mustafa554mmf@gmail.com

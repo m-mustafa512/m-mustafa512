@@ -32,10 +32,11 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
  </p> <br><br>
 
-//original
-// <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-mustafa512&show_icons=true&locale=en&layout=compact" alt="m-mustafa512" /></p> 
-
-//reduced typescript
+<!---
+original
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-mustafa512&show_icons=true&locale=en&layout=compact" alt="m-mustafa512" /></p> 
+reduced typescript
+--->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-mustafa512&show_icons=true&locale=en&layout=compact&langs_count=100&size_weight=0.3&count_weight=0.7" alt="m-mustafa512" /></p>
 <br>
 <br>

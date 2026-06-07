@@ -82,6 +82,6 @@ reduced typescrip
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-mustafa512&layout=compact)
 
-<br>
+<br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-mustafa512&show_icons=true&locale=en" alt="m-mustafa512" /></p>
 --->

@@ -35,7 +35,7 @@
 <!---
 original
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-mustafa512&show_icons=true&locale=en&layout=compact" alt="m-mustafa512" /></p> 
-reduced typescript
+reduced typescrip
 --->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-mustafa512&show_icons=true&locale=en&layout=compact&langs_count=100&size_weight=0.3&count_weight=0.7" alt="m-mustafa512" /></p>
 <br>
@@ -82,6 +82,6 @@ reduced typescript
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-mustafa512&layout=compact)
 
-<br><br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-mustafa512&show_icons=true&locale=en" alt="m-mustafa512" /></p>
 --->

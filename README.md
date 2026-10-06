@@ -4,15 +4,36 @@
 <h1 align="center">       
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=286FF7&width=435&height=55&lines=Hi+There!+%F0%9F%91%8B+;I'm+Muhammad+Mustafa" alt="Typing SVG" /></a>
 </h1> 
-<h3 align="center"> Web Developer | Software Engineering Student</h3>
 
 
-- 👋 Hi, I’m Mustafa.
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Express js. I have intermediate experience in C++, HTML, CSS, Javascript, Bootstrap and JQuery.
-- 💞️ I’m looking to collaborate on learning from experts and sharing my work with you to review and learn from it.
-- 📫 How to reach me: Mail me at mustafa554mmf@gmail.com
-- 📫 Connect with me: https://linktr.ee/m.mustafa512
+### Software Engineer | Backend Development | AI/ML | Android
+
+I'm a Software Engineer interested in building reliable software, backend systems, and intelligent applications.
+
+I have hands-on experience in backend development, REST APIs, databases, web applications, and Android development. My work also includes integrating AI into practical applications, with a particular interest in behavioral analysis and privacy-focused systems.
+
+### What I Work With
+
+- Backend Development & REST APIs
+- Node.js & Express.js
+- JavaScript & Web Development
+- Android Development
+- SQL & NoSQL Databases
+- AI/ML & Intelligent Applications
+- Git & GitHub
+
+### Featured Project
+
+**GuardianAI** — AI-powered Android privacy protection system focused on parental controls, application monitoring, privacy auditing, location tracking, and behavioral anomaly detection.
+
+### Currently Focused On
+
+- Building stronger backend engineering skills
+- Designing scalable and reliable software systems
+- Exploring AI/ML and intelligent applications
+- Improving software architecture and development practices
+
+### Connect With Me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

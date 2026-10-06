@@ -22,9 +22,6 @@ I have hands-on experience in backend development, REST APIs, databases, web app
 - AI/ML & Intelligent Applications
 - Git & GitHub
 
-### Featured Project
-
-**GuardianAI** — AI-powered Android privacy protection system focused on parental controls, application monitoring, privacy auditing, location tracking, and behavioral anomaly detection.
 
 ### Currently Focused On
 
@@ -35,7 +32,6 @@ I have hands-on experience in backend development, REST APIs, databases, web app
 
 ### Connect With Me
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/m-mustafa512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-mustafa512" height="30" width="40" /></a>
 </p>
